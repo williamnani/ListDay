@@ -9,8 +9,7 @@
 
 body {
   background-image: url(./assets/pxfuel\ \(1\).jpg);
-  background-position: center;
-  background-repeat: no-repeat;
+ background-size: cover;
 }
 
 button {
